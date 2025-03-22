@@ -85,3 +85,35 @@ This repository is intended for educational and academic purposes only. All rese
 yaml
 Copy
 Edit
+
+## 🔍 1. Strategic Financial Management
+Search String:
+```
+"Strategic financial management practices and capital structure decisions in Nigerian or African companies between 2017 and 2025"
+```
+
+
+## 🔍 2. Auditing
+Search String:
+```
+"Effectiveness of auditing practices and forensic audit techniques in Nigeria or Africa from 2017 to 2025"
+```
+
+🔍 3. Financial Accounting
+Search String:
+```
+"Adoption of International Financial Reporting Standards (IFRS) and its impact on financial reporting quality in Nigeria or Africa (2017–2025)"
+```
+
+🔍 4. Taxation
+Search String:
+```
+"Tax policy reforms and compliance behavior in Nigeria or African countries between 2017 and 2025"
+```
+
+🔍 5. Public Sector Accounting & Finance
+Search String:
+```
+"Public sector financial management, accountability, and budgeting reforms in Nigeria or Africa from 2017 to 2025"
+```
+
