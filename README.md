@@ -65,3 +65,23 @@ african-financial-research-2017-2025/
     ├── PSAF-Article4.pdf
     └── PSAF-Article5.pdf
 ```
+## 📅 Timeline & Relevance
+Publication Dates: 2017–2025
+
+Geographic Focus: Nigeria & Africa
+
+Use Cases: Academic research, policy advisory, financial strategy development
+
+## 📌 Notes
+Each article includes full citation details for referencing.
+
+All files are in PDF format.
+
+More topics or updates may be added based on policy shifts or emerging research trends.
+
+👨‍🎓 License
+This repository is intended for educational and academic purposes only. All research articles remain the intellectual property of their original publishers or authors.
+
+yaml
+Copy
+Edit
